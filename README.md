@@ -16,3 +16,5 @@
 
 > ![Main table.](https://i.imgur.com/AY19Tog.png)
 > ![Calculator.](https://i.imgur.com/ETfmzzU.png)
+> ![Gas tab.](https://i.imgur.com/CYRHUCv.png)
+> ![Reactions tab.](https://i.imgur.com/HBTZnls.png)
