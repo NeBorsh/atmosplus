@@ -546,7 +546,7 @@ impl eframe::App for MyApp {
                                 }
                             });
                             ui.separator();
-                            ui.label("Minimum Requirements value table:\n1)oxygen\n2)nitrogen\n3)carbon dioxide\n4)plasma\n5)tritium\n6)vapor\n7)ammonia\n8)n2o\n9)frezon");
+                            ui.label("Minimum Requirements Index Table:\n1)oxygen\n2)nitrogen\n3)carbon dioxide\n4)plasma\n5)tritium\n6)vapor\n7)ammonia\n8)n2o\n9)frezon");
                     });
                 }
             }
