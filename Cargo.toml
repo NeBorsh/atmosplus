@@ -1,0 +1,15 @@
+[package]
+name = "atmos"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+egui = "0.28.0"
+egui_extras = "0.28.0"
+epi = "0.17.0"
+evalexpr = "=11.3.0"
+image = "0.25.1"
+eframe = "0.28.0"
+regex = "1.10.5"
+copypasta = "0.10.1"
+reqwest = { version = "0.12.5", features = ["blocking"] }
